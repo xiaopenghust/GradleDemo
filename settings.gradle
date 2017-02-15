@@ -1,0 +1,4 @@
+rootProject.name = 'GradleDemo'
+include 'module1'
+include 'module-web'
+

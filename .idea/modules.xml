@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleDemo_main.iml" group="GradleDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleDemo_test.iml" group="GradleDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-web/module-web.iml" filepath="$PROJECT_DIR$/.idea/modules/module-web/module-web.iml" group="module-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-web/module-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-web/module-web_main.iml" group="module-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-web/module-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-web/module-web_test.iml" group="module-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" group="module1" />
+    </modules>
+  </component>
+</project>
